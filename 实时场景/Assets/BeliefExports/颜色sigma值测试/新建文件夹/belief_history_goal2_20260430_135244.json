@@ -1,0 +1,23 @@
+{
+    "assumedTrueGoal": 2,
+    "history": [
+        {
+            "step": 0,
+            "state": -1,
+            "action": -1,
+            "nextState": -1,
+            "belief": [
+                0.25,
+                0.25,
+                0.25,
+                0.25
+            ],
+            "goalProbs": {
+                "goal_0": 0.25,
+                "goal_1": 0.25,
+                "goal_2": 0.25,
+                "goal_3": 0.25
+            }
+        }
+    ]
+}
